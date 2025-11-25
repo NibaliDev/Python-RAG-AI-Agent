@@ -3,7 +3,7 @@ Här experimenterar jag med API:er, databaser och databashantering för att skap
 
 Inngest
 
-# Tools
+# Verktyg
 Python (stack)
 - Huvudsakliga utvecklingsmiljö
 Streamlit (frontend)
